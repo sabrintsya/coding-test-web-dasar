@@ -3,6 +3,11 @@ const array2 = [1,2];
 const array3 = [5];
 const arrayKosong = [];
 
+const hasil1 = jumlahkanArray(array1);
+const hasil2 = jumlahkanArray(array2);
+const hasil3 = jumlahkanArray(array3);
+const hasilKosong = jumlahkanArray(arrayKosong);
+
 
 
 function jumlahkanArray(array){
