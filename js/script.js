@@ -8,6 +8,10 @@ const hasil2 = jumlahkanArray(array2);
 const hasil3 = jumlahkanArray(array3);
 const hasilKosong = jumlahkanArray(arrayKosong);
 
+console.log(hasil1);
+console.log(hasil2);
+console.log(hasil3);
+console.log(hasilKosong);
 
 
 function jumlahkanArray(array){
